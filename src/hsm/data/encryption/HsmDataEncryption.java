@@ -121,7 +121,7 @@ public class HsmDataEncryption {
                 break;
                
             default:
-                System.out.println("Invalid choice");
+                System.out.println("Invalid choices");
         }
 
         
